@@ -14,4 +14,6 @@ an opencv project
 <li>w - select white marker</li>
 </ul>
 
+![out](https://user-images.githubusercontent.com/60638127/147873505-b01ef174-5d2b-4170-b7e7-666fdf34c5e7.jpg)
+
 
