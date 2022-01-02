@@ -1,5 +1,4 @@
 # air-draw
-an opencv project
 <h4>user use the screen as a board. can draw by turing on camera and holding together thumb and index fingers</h4>
 <h4>keys and corresponding functions are given below</h4>
 <ul>
@@ -14,6 +13,7 @@ an opencv project
 <li>w - select white marker</li>
 </ul>
 
-![out](https://user-images.githubusercontent.com/60638127/147873505-b01ef174-5d2b-4170-b7e7-666fdf34c5e7.jpg)
 
-
+<img src="https://user-images.githubusercontent.com/60638127/147874325-47009ce8-0e60-46de-ad50-30dd0f95148f.gif" height="200" />
+<h4>saved artboard</h4>
+<img src="https://user-images.githubusercontent.com/60638127/147874383-aad12dc8-f29b-479e-b010-673d5bbd7dff.jpg" height="200" />
